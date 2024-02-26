@@ -1,17 +1,32 @@
+🌟 **Welcome to JUMBF-Type-Checker!** 🌟
+
+🚀 **Unveil the Hidden Secrets of Your JPEG Files!** 🚀
+
 ![Logo](logo.png)
-# JUMBF-Type-Checker
-This software helps users to distinguish between JPEG 1 file and JPEG file with JUMBF as well as allows users to check which JUMBF Type is present in the input file. This is beneficial in case users do not have decoders of different types, they can use this software to check whether the file has JUMBF or not and which JUMBF is there.
 
-# Purpose
-To check whether input file has any JPEG Universal Metadata Box Format (JUMBF (ISO/IEC 19566-5)) embedded in it or not. The current version of app can successfully check JUMBF description types boxes of JPEG Privacy and Security (ISO/IEC 19566-4), JPEG 360 (ISO/IEC 19566-6) and JPEG Snack (ISO/IEC 19566-8). 
+Are you tangled in a web of JPEG files, unsure if they're just plain old JPEGs or if they're carrying the advanced JPEG Universal Metadata Box Format (JUMBF)? Look no further! JUMBF-Type-Checker is your ultimate tool, designed to peel back the layers of your files, revealing whether they house JUMBF and identifying the type of JUMBF embedded.
 
-# How to use
+🔍 **What's the Magic?**
 
-1. Run App in MATLAB (current App is developed in MATLAB R2022a).
-2. Click on upload button and choose input file.
-3. Once the input file is correctly loaded, click on analyze.
-4. Wait for the completion of analyze and observe results.
+This nifty software is your go-to for distinguishing between a standard JPEG file and one enriched with JUMBF. It's perfect for those moments when you're decoder-less and curious about the secrets your files might hold.
 
-# Contact
+🎯 **Purpose**
 
-For further queries do not hesitate to contact us at sonainjamil@sju.ac.kr.
+Our mission is simple yet powerful: to detect the presence of JPEG Universal Metadata Box Format (JUMBF - ISO/IEC 19566-5) in your files. The current version of our app excels in identifying JUMBF description types from various JPEG extensions, including:
+
+- JPEG Privacy and Security (ISO/IEC 19566-4)
+- JPEG 360 (ISO/IEC 19566-6)
+- JPEG Snack (ISO/IEC 19566-8)
+
+🛠 **How to Dive In**
+
+1. **Launch the App**: Fire up the app in MATLAB (optimized for MATLAB R2022a).
+2. **Upload and Go**: Hit the upload button, select your file, and let the magic begin.
+3. **Analyze**: With your file loaded, press 'analyze' and watch as the app does its thing.
+4. **Discover**: Post-analysis, marvel at the insights revealed about your file!
+
+📞 **Got Questions?**
+
+We're all ears! Should you find yourself with queries or in need of assistance, reach out without hesitation to sonainjamil@sju.ac.kr.
+
+Dive into the world of JUMBF-Type-Checker and transform the way you interact with your JPEG files today! 🌈✨
