@@ -30,6 +30,6 @@ Our mission is simple yet powerful: to detect the presence of JPEG Universal Met
 
 📞 **Got Questions?**
 
-We're all ears! Should you find yourself with queries or in need of assistance, reach out without hesitation to sonainjamil@sju.ac.kr.
+We're all ears! Should you find yourself with queries or in need of assistance, reach out without hesitation to sonainjamil@sju.ac.kr or sonainjamil@ieee.org.
 
 Dive into the world of JUMBF-Type-Checker and transform the way you interact with your JPEG files today! 🌈✨
