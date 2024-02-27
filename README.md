@@ -2,7 +2,10 @@
 
 🚀 **Unveil the Hidden Secrets of Your JPEG Files!** 🚀
 
-![Logo](logo.png)
+<div align="center">
+    <img src="logo.png" width="500" />
+</div>
+
 
 Are you tangled in a web of JPEG files, unsure if they're just plain old JPEGs or if they're carrying the advanced JPEG Universal Metadata Box Format (JUMBF)? Look no further! JUMBF-Type-Checker is your ultimate tool, designed to peel back the layers of your files, revealing whether they house JUMBF and identifying the type of JUMBF embedded.
 
