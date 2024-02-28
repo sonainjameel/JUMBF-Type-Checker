@@ -25,7 +25,7 @@ Our mission is simple yet powerful: to detect the presence of JPEG Universal Met
 
 ## 🛠 How to Dive In
 
-1. **Launch the App**: Fire up the app in MATLAB (optimized for MATLAB R2022a).
+1. **Launch the App**: Fire up the app in MATLAB (optimized for MATLAB R2022a or later).
 2. **Upload and Go**: Hit the upload button, select your file, and let the magic begin.
 3. **Analyze**: With your file loaded, press 'analyze' and watch as the app does its thing.
 4. **Discover**: Post-analysis, marvel at the insights revealed about your file!
