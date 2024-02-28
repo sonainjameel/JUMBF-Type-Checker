@@ -1,7 +1,7 @@
 # 🌟 Welcome to JUMBF-Type-Checker! 🌟
 
 <div align="center">
-🚀 **Unveil the Hidden Secrets of Your JPEG Files!** 🚀
+🚀 Unveil the Hidden Secrets of Your JPEG Files! 🚀
 </div>
 
 <div align="center">
