@@ -1,4 +1,4 @@
-🌟 **Welcome to JUMBF-Type-Checker!** 🌟
+# 🌟 Welcome to JUMBF-Type-Checker! 🌟
 
 🚀 **Unveil the Hidden Secrets of Your JPEG Files!** 🚀
 
