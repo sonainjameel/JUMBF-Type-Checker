@@ -35,3 +35,6 @@ Our mission is simple yet powerful: to detect the presence of JPEG Universal Met
 We're all ears! Should you find yourself with queries or in need of assistance, reach out without hesitation to sonainjamil@sju.ac.kr or sonainjamil@ieee.org.
 
 Dive into the world of JUMBF-Type-Checker and transform the way you interact with your JPEG files today! 🌈✨
+
+## 🎯 Reference Paper
+S. Jamil et al., "JUMBF Type Checker: A Versatile Tool for Identifying JPEG Systems Parts in JPEG Images," 2024 International Conference on Engineering & Computing Technologies (ICECT), Islamabad, Pakistan, 2024, pp. 1-6, doi: 10.1109/ICECT61618.2024.10581043.
